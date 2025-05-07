@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 07-05-2025 a las 17:42:24
+-- Tiempo de generación: 07-05-2025 a las 18:13:05
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.2.12
 
@@ -101,7 +101,17 @@ INSERT INTO `maquina` (`idMachine`, `Name_Mach`, `Num_Mach`) VALUES
 (9, 'Dance Dance Revolution', '09'),
 (10, 'Crazy Taxi', '10'),
 (11, 'The House of the Dead 4', '11'),
-(12, 'Resident Evil: The Darkside Chronicles', '12');
+(12, 'Resident Evil: The Darkside Chronicles', '12'),
+(13, 'X-Men', '13'),
+(14, 'The Simpsons', '14'),
+(15, 'Marvel vs Capcom', '15'),
+(16, 'Time Crisis', '16'),
+(17, 'Tekken 3', '17'),
+(18, 'Area 51', '18'),
+(19, 'Need For Speed', '19'),
+(20, 'Silent Scope', '20'),
+(21, 'Alien Vs Prededator', '21'),
+(22, 'Spiderman: The Videogame', '22');
 
 -- --------------------------------------------------------
 
